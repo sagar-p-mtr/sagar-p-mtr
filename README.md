@@ -1,5 +1,6 @@
-# Hi 👋🏻, I'm Sagar P:
-I am a Computer Science student working on innovative projects.
+# Hi 👋🏻, I'm Sagar P
+
+💻I am a Computer Science student working on innovative projects.
 
 
 ## 🌐 Socials:
