@@ -1,5 +1,12 @@
-# 💫 About Me:
-                                      A passionate developer from India 🇮🇳<br><br>🌱 I’m currently learning System Design and Agentic AI<br><br>👨‍💻 I’m currently Intern @ Infosys Springboard <br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Web Apps, Backend and Artificial Intelligence<br><br>📫 Reach out to me at sagarp.22cs@saividya.ac.in<br>
+#                                                                                                                 Hi 👋, I'm Sagar P
+
+                                                                                                      A passionate developer from India 🇮🇳
+🌱 I’m currently learning System Design and Agentic AI  
+👨‍💻 I’m currently Intern @ Infosys Springboard 
+📑 Check out my resume here - My Resume
+💻 All of my projects are available on GitHub
+💬 Ask me about Web Apps, Backend and Artificial Intelligence
+📫 Reach out to me at sagarp.22cs@saividya.ac.in
 
 
 # 💻 Tech Stack:
