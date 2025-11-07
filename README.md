@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar P</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-p-mtr&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-p-mtr" /> </p>
+
 - 🌱 I'm currently learning **System Design and Agentic AI**
 
-- 👨‍💻 I'm currently an Intern at [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/posts/?feedView=all)
+- 👨‍💻 I'm currently an Intern at [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/posts/?feedView=all) 🇮🇳
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1yzzbIoz3RIyfwV_9-GAk7HnrGN0GfLoB/view)
 
