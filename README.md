@@ -1,6 +1,6 @@
 #                                                                                                                 Hi 👋, I'm Sagar P
 
-                                                                                                      A passionate developer from India 🇮🇳
+                                                                                       **A passionate developer from India 🇮🇳**
 🌱 I’m currently learning System Design and Agentic AI  
 👨‍💻 I’m currently Intern @ Infosys Springboard 
 📑 Check out my resume here - My Resume
