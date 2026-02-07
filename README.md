@@ -7,8 +7,6 @@
 
 - 👨‍💻 I'm Ex-Intern at [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/posts/?feedView=all) 
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1yzzbIoz3RIyfwV_9-GAk7HnrGN0GfLoB/view)
-
 - 💻 All of my projects are available on [GitHub](https://github.com/sagar-p-mtr)
 
 - 💬 Ask me about **Web Apps, Backend and Artificial Intelligence**
