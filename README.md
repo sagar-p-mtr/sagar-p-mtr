@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **System Design and Agentic AI**
 
-- 👨‍💻 I'm currently an Intern at [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/posts/?feedView=all) 
+- 👨‍💻 I'm Ex-Intern at [Infosys Springboard](https://www.linkedin.com/company/infosys-springboard/posts/?feedView=all) 
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1yzzbIoz3RIyfwV_9-GAk7HnrGN0GfLoB/view)
 
