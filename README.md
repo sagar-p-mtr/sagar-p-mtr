@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sagar-p-mtr&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sagar-p-mtr&theme=default&hide_border=false&border_radius=8" />
 </p>
 
 ---
