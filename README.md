@@ -41,31 +41,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-<!--
-  Add 2-4 of your best projects here, e.g.:
-
-  #### [Project Name](https://github.com/sagar-p-mtr/project-repo)
-  Short one-line description of what it does and the stack used.
--->
-
-#### [Project Name](https://github.com/sagar-p-mtr/repo-link)
-One-line description — what it does, the problem it solves, and the tech stack.
-
-#### [Project Name](https://github.com/sagar-p-mtr/repo-link)
-One-line description — what it does, the problem it solves, and the tech stack.
-
----
-
-### 🏆 Achievements & Certifications
-
-<!-- e.g. hackathon wins, certifications, notable coursework -->
-- 🎓 Infosys Springboard Internship — *[add focus area / dates]*
-- 🏅 *[Add certification, hackathon, or award]*
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
