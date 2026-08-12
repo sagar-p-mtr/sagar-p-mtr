@@ -1,19 +1,68 @@
 <h1 align="center">Hi 👋, I'm Sagar P</h1>
-<h3 align="center">A Passionate Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagar-p-mtr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 I'm currently learning **System Design and Agentic AI**
+<p align="center">
+  🌱 Currently exploring <b>System Design</b> and <b>Agentic AI</b> &nbsp;|&nbsp;
+  👨‍💻 Former <b>Infosys Springboard Intern</b>
+</p>
 
-- 👨‍💻 Former **Infosys Springboard Intern**
+---
 
-- 💻 All of my projects are available on **[GitHub](https://github.com/sagar-p-mtr)**
+### 🚀 About Me
 
+- 💻 All of my projects are on **[GitHub](https://github.com/sagar-p-mtr)**
 - 💬 Ask me about **Full Stack Development, Backend Development, AI & Machine Learning**
-
+- 🌱 Currently deepening my knowledge of **System Design** and **Agentic AI**
 - 📫 Reach me at **sagarp.22cs@saividya.ac.in**
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <!-- Add your real links below and remove any you don't use -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sagarp.22cs@saividya.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+<!--
+  Add 2-4 of your best projects here, e.g.:
+
+  #### [Project Name](https://github.com/sagar-p-mtr/project-repo)
+  Short one-line description of what it does and the stack used.
+-->
+
+#### [Project Name](https://github.com/sagar-p-mtr/repo-link)
+One-line description — what it does, the problem it solves, and the tech stack.
+
+#### [Project Name](https://github.com/sagar-p-mtr/repo-link)
+One-line description — what it does, the problem it solves, and the tech stack.
+
+---
+
+### 🏆 Achievements & Certifications
+
+<!-- e.g. hackathon wins, certifications, notable coursework -->
+- 🎓 Infosys Springboard Internship — *[add focus area / dates]*
+- 🏅 *[Add certification, hackathon, or award]*
 
 ---
 
@@ -68,5 +117,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  ⭐ Thanks for stopping by — feel free to explore my repos and reach out! ⭐
 </p>
