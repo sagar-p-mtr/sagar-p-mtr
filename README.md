@@ -27,19 +27,19 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:sagarp.22cs@saividya.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 
   <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -49,22 +49,15 @@
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sagar-p-mtr&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=sagar-p-mtr&show_icons=true"
     alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&theme=default&hide_border=true"
-    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=sagar-p-mtr&theme=default&hide_border=false&border_radius=8"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact"
+    alt="Top Languages"
   />
 </p>
 
