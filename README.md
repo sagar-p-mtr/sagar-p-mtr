@@ -13,7 +13,6 @@
 ---
 
 ### 🚀 About Me
-
 - 💻 All of my projects are on **[GitHub](https://github.com/sagar-p-mtr)**
 - 💬 Ask me about **Full Stack Development, Backend Development, AI & Machine Learning**
 - 🌱 Currently deepening my knowledge of **System Design** and **Agentic AI**
@@ -22,7 +21,6 @@
 ---
 
 ### 🔗 Connect With Me
-
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -41,10 +39,14 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=sagar-p-mtr&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-p-mtr&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
