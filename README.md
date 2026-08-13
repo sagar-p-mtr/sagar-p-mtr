@@ -48,10 +48,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sagar-p-mtr&theme=default&hide_border=false&border_radius=8&cache_seconds=86400" />
-</p>
-
 ---
 
 <p align="center">
