@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sagar P</h1>
-
 <h3 align="center">Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
@@ -29,15 +28,12 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:sagarp.22cs@saividya.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-
   <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
@@ -48,17 +44,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sagar-p-mtr&show_icons=true"
-    alt="GitHub Stats"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar-p-mtr&show_icons=true&theme=tokyonight&count_private=true" alt="Sagar's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-p-mtr&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-p-mtr&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
