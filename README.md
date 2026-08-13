@@ -24,7 +24,6 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <!-- Add your real links below and remove any you don't use -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -44,8 +43,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sagar-p-mtr&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=sagar-p-mtr&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
