@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sagar P</h1>
-<h3 align="center">Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
+
+<h3 align="center">
+  Full Stack Developer & AI Enthusiast from India 🇮🇳
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagar-p-mtr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=sagar-p-mtr&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
@@ -11,41 +17,53 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-* 💻 All of my projects are on [**GitHub**](https://github.com/sagar-p-mtr)
-* 💬 Ask me about **Full Stack Development, Backend Development, AI & Machine Learning**
+- 💻 All of my projects are on [**GitHub**](https://github.com/sagar-p-mtr)
+- 💬 Ask me about **Full Stack Development, Backend Development, AI & Machine Learning**
+- 🌱 Currently learning **System Design and Agentic AI**
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sagar-p-mtr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=sagar-p-mtr&show_icons=true&hide_border=true"
     alt="GitHub Stats"
   />
+
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=sagar-p-mtr&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=sagar-p-mtr&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 ---
 
+## 🛠️ Technologies
+
 <p align="center">
-  ⭐ Thanks for stopping by — feel free to explore my repos and reach out! ⭐
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,python,java,cpp,mysql,postgresql,mongodb,git,github,docker,aws" />
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for stopping by — feel free to explore my repositories! ⭐
 </p>
