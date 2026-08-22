@@ -19,9 +19,9 @@
 
 ## 🚀 About Me
 
-- 💻 All of my projects are on [**GitHub**](https://github.com/sagar-p-mtr)
-- 💬 Ask me about **Full Stack Development, Backend Development, AI & Machine Learning**
-- 🌱 Currently learning **System Design and Agentic AI**
+* 💻 All of my projects are on [**GitHub**](https://github.com/sagar-p-mtr)
+* 💬 Ask me about **Full Stack Development, Backend Development, AI & Machine Learning**
+* 🌱 Currently deepening my knowledge of **System Design** and **Agentic AI**
 
 ---
 
@@ -34,11 +34,12 @@
     alt="GitHub Stats"
   />
 
-  <img
-    height="170"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+<img
+ height="170"
+ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sagar-p-mtr&layout=compact&hide_border=true"
+ alt="Top Languages"
+/>
+
 </p>
 
 ---
@@ -47,7 +48,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=sagar-p-mtr&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=sagar-p-mtr&hide_current_streak=false&hide_total_contributions=false&hide_longest_streak=false&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -57,9 +58,7 @@
 ## 🛠️ Technologies
 
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,python,java,cpp,mysql,postgresql,mongodb,git,github,docker,aws" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,python,java,cpp,mysql,postgresql,mongodb,git,github,docker,aws" alt="Technologies" />
 </p>
 
 ---
