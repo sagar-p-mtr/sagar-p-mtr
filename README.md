@@ -48,7 +48,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=sagar-p-mtr&hide_current_streak=false&hide_total_contributions=false&hide_longest_streak=false&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/streak/?username=sagar-p-mtr"
     alt="GitHub Streak"
   />
 </p>
@@ -58,7 +58,10 @@
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,python,java,cpp,mysql,postgresql,mongodb,git,github,docker,aws" alt="Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,python,java,cpp,mysql,postgresql,mongodb,git,github,docker,aws"
+    alt="Technologies"
+  />
 </p>
 
 ---
